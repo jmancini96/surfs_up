@@ -6,8 +6,8 @@ The purpose of this analysis is to extract temperature data for the months of Ju
 
 - Average June temperature is ~75 degrees
 - Average December temperature is ~71 degrees
-- Both months have a standard deviation greater than 3
+- Both months have a standard deviation between 3-4
 
 ### Summary
 
-Temperatures on Oahu are relatively consistent year round. The high standard deviation in both months makes for a rather tight spread as well, meaning its unlikely that temperatures in June dip beneath 69 degrees, or roughly two standard deviations; 65 degrees in December. Other possibly useful queries include extracting percipitation data for each month and running another query to extract temperatures, buy only for more recent years.
+Temperatures on Oahu are relatively consistent year round. The standard deviation in both months makes for a rather tight spread as well, meaning its unlikely that temperatures in June dip beneath 68 degrees, or roughly two standard deviations; 64 degrees in December. Other possibly useful queries include extracting percipitation data for each month and running another query to extract temperatures again, buy only for more recent years.
